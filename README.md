@@ -1,4 +1,5 @@
 # brute-bee: By Ernest Duah
+# Installation
 # Disclaimer: 
 For educational purposes only, do not use this script illegally!
 This script would require login URL, username, resulting text, a form attribute, attribute value.
