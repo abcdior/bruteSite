@@ -5,7 +5,7 @@ This script would require login URL, username, resulting text, a form attribute,
 It is used to automate the bruteforce on the intended URL.
 
 # Login URL: 
-The intended website (for instance, www.facebook.com)
+The intended website (for instance, http://www.facebook.com)
 # Username: 
 This is usually the Email, number or user ID.
 # Resulting text: 
