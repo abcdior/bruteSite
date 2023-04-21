@@ -1,4 +1,4 @@
-# brute-bee: By Ernest Duah
+# BruteSite: By Ernest Duah
 # Installation
 # Disclaimer: 
 For educational purposes only, do not use this script illegally!
